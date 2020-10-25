@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://D:/BXG/课件/4.阶段四-传智健康/day02/day02/代码/health_parent/health_parent/health_backend" />
+    <file type="web" url="file://D:/BXG/课件/4.阶段四-传智健康/day02/day02/代码/health_parent/health_parent/health_service_provider" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="D:/BXG/课件/4.阶段四-传智健康/day02/day02/代码/health_parent/health_parent/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
